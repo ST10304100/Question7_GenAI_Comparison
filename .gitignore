@@ -3,3 +3,7 @@
 __pycache__/
 .env
 School_Data_CSV.csv
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.env
